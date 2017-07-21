@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Role Name
 =========
 
@@ -25,3 +26,7 @@ Author Information
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
 
+=======
+# ansible-apache-virtualhosts-gather-data
+Fetch data regarding apache virtual hsts
+>>>>>>> e0319d751f541396d6b49e11a046d1bf80154a3e
